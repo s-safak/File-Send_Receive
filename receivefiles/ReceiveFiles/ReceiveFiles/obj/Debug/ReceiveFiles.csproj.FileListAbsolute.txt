@@ -1,0 +1,8 @@
+F:\_Source\E-Fatura\Programlar\Suleyman\receivefiles\ReceiveFiles\ReceiveFiles\bin\Debug\ReceiveFiles.exe
+F:\_Source\E-Fatura\Programlar\Suleyman\receivefiles\ReceiveFiles\ReceiveFiles\bin\Debug\ReceiveFiles.pdb
+F:\_Source\E-Fatura\Programlar\Suleyman\receivefiles\ReceiveFiles\ReceiveFiles\obj\Debug\ReceiveFiles.Form1.resources
+F:\_Source\E-Fatura\Programlar\Suleyman\receivefiles\ReceiveFiles\ReceiveFiles\obj\Debug\ReceiveFiles.Properties.Resources.resources
+F:\_Source\E-Fatura\Programlar\Suleyman\receivefiles\ReceiveFiles\ReceiveFiles\obj\Debug\ReceiveFiles.csproj.GenerateResource.Cache
+F:\_Source\E-Fatura\Programlar\Suleyman\receivefiles\ReceiveFiles\ReceiveFiles\obj\Debug\ReceiveFiles.exe
+F:\_Source\E-Fatura\Programlar\Suleyman\receivefiles\ReceiveFiles\ReceiveFiles\obj\Debug\ReceiveFiles.pdb
+F:\_Source\E-Fatura\Programlar\Suleyman\receivefiles\ReceiveFiles\ReceiveFiles\obj\Debug\ReceiveFiles.csprojResolveAssemblyReference.cache

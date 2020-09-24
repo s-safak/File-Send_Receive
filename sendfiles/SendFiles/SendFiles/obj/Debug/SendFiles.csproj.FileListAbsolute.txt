@@ -1,0 +1,8 @@
+F:\_Source\E-Fatura\Programlar\Suleyman\sendfiles\SendFiles\SendFiles\bin\Debug\SendFiles.exe
+F:\_Source\E-Fatura\Programlar\Suleyman\sendfiles\SendFiles\SendFiles\bin\Debug\SendFiles.pdb
+F:\_Source\E-Fatura\Programlar\Suleyman\sendfiles\SendFiles\SendFiles\obj\Debug\SendFiles.csprojResolveAssemblyReference.cache
+F:\_Source\E-Fatura\Programlar\Suleyman\sendfiles\SendFiles\SendFiles\obj\Debug\SendFiles.Form1.resources
+F:\_Source\E-Fatura\Programlar\Suleyman\sendfiles\SendFiles\SendFiles\obj\Debug\SendFiles.Properties.Resources.resources
+F:\_Source\E-Fatura\Programlar\Suleyman\sendfiles\SendFiles\SendFiles\obj\Debug\SendFiles.csproj.GenerateResource.Cache
+F:\_Source\E-Fatura\Programlar\Suleyman\sendfiles\SendFiles\SendFiles\obj\Debug\SendFiles.exe
+F:\_Source\E-Fatura\Programlar\Suleyman\sendfiles\SendFiles\SendFiles\obj\Debug\SendFiles.pdb
